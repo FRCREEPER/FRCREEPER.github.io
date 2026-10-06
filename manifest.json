@@ -1,15 +1,23 @@
 {
-    "apps":  [
-                 {
-                     "version":  "0.1.0",
-                     "name":  "snake",
-                     "url":  "https://frcreeper.github.io/causenix/apps/snake.elf",
-                     "sha256":  "a005c1521264dd73283836f0c85e2281ff642c96f3689887289613563750d016",
-                     "desc":  "Snake game. WASD move, Q quit",
-                     "size":  23320
-                 }
-             ],
-    "description":  "Causenix OS software repo (apt-style)",
-    "repo":  "causenix",
-    "version":  1
+    "apps": [
+        {
+            "version": "0.1.0",
+            "name": "snake",
+            "url": "https://frcreeper.github.io/causenix/apps/snake.elf",
+            "sha256": "a005c1521264dd73283836f0c85e2281ff642c96f3689887289613563750d016",
+            "desc": "Snake game. WASD move, Q quit",
+            "size": 23320
+        },
+        {
+            "name": "conway",
+            "version": "0.1.0",
+            "desc": "Conway's Game of Life. SPACE pause, S step, C clear, R random, G glider, P pentomino, Q quit",
+            "size": 23392,
+            "sha256": "a9f6e9e1bc4516f51aaa3e1d40378e15dea5d25ac4cde7767e84a1f5c024fc44",
+            "url": "https://frcreeper.github.io/causenix/apps/conway.elf"
+        }
+    ],
+    "description": "Causenix OS software repo (apt-style)",
+    "repo": "causenix",
+    "version": 1
 }
