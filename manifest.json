@@ -13,7 +13,7 @@
             "version": "0.1.0",
             "desc": "Conway's Game of Life. SPACE pause, S step, C clear, R random, G glider, P pentomino, Q quit",
             "size": 23392,
-            "sha256": "a9f6e9e1bc4516f51aaa3e1d40378e15dea5d25ac4cde7767e84a1f5c024fc44",
+            "sha256": "f1334793bc2feed300dcf631c029678684b316a7f9127a5acfa79c8a48590cba",
             "url": "https://frcreeper.github.io/causenix/apps/conway.elf"
         }
     ],
