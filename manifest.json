@@ -1,0 +1,15 @@
+{
+    "apps":  [
+                 {
+                     "version":  "0.1.0",
+                     "name":  "snake",
+                     "url":  "https://frcreeper.github.io/causenixos.github.io/apps/snake.elf.b64",
+                     "sha256":  "a005c1521264dd73283836f0c85e2281ff642c96f3689887289613563750d016",
+                     "desc":  "Snake game. WASD move, Q quit",
+                     "size":  23320
+                 }
+             ],
+    "description":  "Causenix OS software repo (apt-style)",
+    "repo":  "causenix",
+    "version":  1
+}
